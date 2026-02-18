@@ -1,4 +1,4 @@
-const WHATSAPP_NUMBER = "5511999999999"; // Replace with actual number
+const WHATSAPP_NUMBER = "5584986310177"; // Replace with actual number
 
 const PREFILLED_MESSAGE = `Olá. Tenho uma operação acima de R$400k/mês e gostaria de solicitar uma avaliação operacional com o sistema Omni-Control.`;
 
